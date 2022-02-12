@@ -8,11 +8,11 @@ body {
     margin: 0;
     padding: 0;
     .conteiner {
-        width: 59.4%;
+        width: 1140px;
         margin: 0 auto;
     }
 }
-
-
+@import 'blocks/hamburger';
 @import 'blocks/sidepanel';
 @import 'blocks/header';
+
