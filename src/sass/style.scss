@@ -12,7 +12,8 @@ body {
         margin: 0 auto;
     }
 }
+
+@import 'blocks/header';
 @import 'blocks/hamburger';
 @import 'blocks/sidepanel';
-@import 'blocks/header';
-
+@import 'blocks/nav';
