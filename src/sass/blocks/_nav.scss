@@ -66,6 +66,21 @@
     }
             
 }
+@media screen and (max-width: 1440px) {
+    .list {
+        &_nav {
+            padding: 10px 40px 1px 40px;
+            margin-top: -57px;
+        }
+    }
+}
+@media screen and (max-width: 1024px) {
+    .list {
+        &_nav {
+            margin-top: -51px;
+        }
+    }
+}
 @media screen and (max-width: 768px) {
     .list {
         .conteiner {
